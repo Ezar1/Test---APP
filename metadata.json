@@ -1,0 +1,6 @@
+{
+  "name": "Everest India Onboarding Dashboard",
+  "description": "Executive onboarding and allocation intelligence command center with live Google Sheets synchronization, metric engine, and weekly funnel analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
